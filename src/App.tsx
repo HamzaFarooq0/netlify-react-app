@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { fetchQuizQuestions } from "./API";
-import {QuizApp} from './QuizApp'
 
 //Component
 import QuestionCard from "./component/QuestionCard";
